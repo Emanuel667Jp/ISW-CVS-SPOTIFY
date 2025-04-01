@@ -1,7 +1,31 @@
 Historia de usuario 
-
-Título: Descubrir nueva música basada en mis gustos
+Descubrir nueva música basada en mis gustos
 
 Como un usuario amante de la música,
 quiero que la aplicación me recomiende canciones y artistas según mis preferencias,
 para descubrir nueva música sin tener que buscar manualmente.
+
+Criterios de aceptación
+Dado que el usuario ha reproducido varias canciones en la aplicación, 
+Cuando accede a la sección de recomendaciones, 
+Entonces se le mostrarán sugerencias de nuevas canciones y artistas basadas en sus preferencias.
+
+Modo Offline para Escuchar sin Internet
+Como usuario frecuente de la aplicación,
+quiero descargar mis canciones y playlists favoritas,
+para escucharlas sin conexión a internet cuando no tenga datos o Wi-Fi.
+
+Criterios de Aceptación:
+Dado que el usuario es suscriptor premium,
+Cuando selecciona la opción de descargar una canción,
+Entonces la canción se guardará en su dispositivo para escucharla sin conexión.
+
+Creación de Playlists Colaborativas
+Como usuario,
+quiero poder crear playlists compartidas con amigos,
+para que todos podamos agregar y escuchar música juntos.
+
+Criterios de Aceptación:
+Dado que el usuario crea una playlist colaborativa,
+Cuando invita a otros usuarios,
+Entonces estos podrán agregar canciones a la lista.
