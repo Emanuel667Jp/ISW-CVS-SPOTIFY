@@ -1,0 +1,7 @@
+Historia de usuario 
+
+Título: Descubrir nueva música basada en mis gustos
+
+Como un usuario amante de la música,
+quiero que la aplicación me recomiende canciones y artistas según mis preferencias,
+para descubrir nueva música sin tener que buscar manualmente.
